@@ -1,5 +1,4 @@
 <?php
-
 //$conn=mysqli_connect('localhost','root','','Phone_book');
 //if (!conn)
 //{

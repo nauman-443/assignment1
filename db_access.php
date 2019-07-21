@@ -10,7 +10,10 @@ if (!$conn)
 else {
 	echo '';
 }
-
-
-
 ?>
+<!--<html>
+<form action="login_process.php" method="post">
+	Email<input type="text" name="E_mail">
+	password<input type="password" name="password">
+	<input type="submit" name="ok">
+</form>-->
